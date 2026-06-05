@@ -1,16 +1,53 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**PedroxionX/PedroxionX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Pedro 
 
-Here are some ideas to get you started:
+[![HackerRank](https://img.shields.io/badge/HackerRank-Java_Basic_Certified-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/certificates/c1373c78ded6)
+[![GitHub](https://img.shields.io/badge/GitHub-PedroxionX-181717?style=flat-square&logo=github)](https://github.com/PedroxionX)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+## Education
+
+<table width="100%">
+<tr>
+<td>
+<strong>Universidad Autónoma de Baja California (UABC)</strong><br>
+<em>B.Eng. in Software Engineering and Emerging Technologies</em><br>
+<sub>Currently enrolled · Highest education level</sub>
+</td>
+<td align="right">
+<sub>Aug. 2022 – Jun. 2027 (Expected)</sub>
+</td>
+</tr>
+</table>
+
+**Software & Programming**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Software Engineering](https://img.shields.io/badge/Software_Engineering-0078D4?style=flat-square)
+
+---
+
+## Certifications
+
+<table width="100%">
+<tr>
+<td>
+<strong>Java (Basic)</strong> — HackerRank Skills Certification &nbsp;
+<a href="https://www.hackerrank.com/certificates/c1373c78ded6">
+<img src="https://img.shields.io/badge/Verified-2EC866?style=flat-square&logo=hackerrank&logoColor=white" alt="Verified"/>
+</a><br>
+<sub>Core Java: classes, data structures, inheritance, exception handling · Java 7 / Java 8</sub>
+</td>
+</tr>
+<tr><td><br></td></tr>
+<tr>
+<td>
+<strong>Advanced Microsoldering and PCB Repair</strong> — Private Training Organization<br>
+<sub>Microsoldering, PCB diagnostics, component-level repair, SMD/BGA replacement</sub>
+</td>
+</tr>
+</table>
