@@ -1,9 +1,11 @@
 <div align="center">
 
-# Pedro 
+# Pedro
 
-[![HackerRank](https://img.shields.io/badge/HackerRank-Java_Basic_Certified-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/certificates/c1373c78ded6)
+[![HackerRank](https://img.shields.io/badge/HackerRank-Java_Basic_Certified-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/certificates/c1373c78ded)
 [![GitHub](https://img.shields.io/badge/GitHub-PedroxionX-181717?style=flat-square&logo=github)](https://github.com/PedroxionX)
+
+### [📄 View My Resume](https://pedroxionx.github.io/Resume/)
 
 </div>
 
@@ -37,7 +39,7 @@
 <tr>
 <td>
 <strong>Java (Basic)</strong> — HackerRank Skills Certification &nbsp;
-<a href="https://www.hackerrank.com/certificates/c1373c78ded6">
+<a href="https://www.hackerrank.com/certificates/c1373c78ded">
 <img src="https://img.shields.io/badge/Verified-2EC866?style=flat-square&logo=hackerrank&logoColor=white" alt="Verified"/>
 </a><br>
 <sub>Core Java: classes, data structures, inheritance, exception handling · Java 7 / Java 8</sub>
