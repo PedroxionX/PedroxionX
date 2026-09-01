@@ -39,7 +39,7 @@
 <tr>
 <td>
 <strong>Java (Basic)</strong> — HackerRank Skills Certification &nbsp;
-<a href="https://www.hackerrank.com/certificates/c1373c78ded">
+<a href="https://www.hackerrank.com/certificates/c1373c78ded6">
 <img src="https://img.shields.io/badge/Verified-2EC866?style=flat-square&logo=hackerrank&logoColor=white" alt="Verified"/>
 </a><br>
 <sub>Core Java: classes, data structures, inheritance, exception handling · Java 7 / Java 8</sub>
