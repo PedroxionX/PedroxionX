@@ -2,10 +2,10 @@
 
 # Pedro
 
-[![HackerRank](https://img.shields.io/badge/HackerRank-Java_Basic_Certified-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/certificates/c1373c78ded)
+[![HackerRank](https://img.shields.io/badge/HackerRank-Java_Basic_Certified-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/certificates/c1373c78ded6)
 [![GitHub](https://img.shields.io/badge/GitHub-PedroxionX-181717?style=flat-square&logo=github)](https://github.com/PedroxionX)
 
-### [📄 View My Resume](https://pedroxionx.github.io/Resume/)
+### [📄 View My Resume](https://pedroxionx.github.io/PedroxionX/)
 
 </div>
 
@@ -53,3 +53,7 @@
 </td>
 </tr>
 </table>
+
+---
+
+El CV y su despliegue se mantienen en este repositorio. Consulta la [guía de mantenimiento](docs/maintenance.md).
