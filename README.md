@@ -11,6 +11,20 @@
 
 ---
 
+## Featured Project
+
+### Trend Detective · NASA Space Apps Challenge 2026
+
+[![Trend Detective showing a 3D climate trend map and temperature analysis for Chihuahua](assets/trend-detective.jpg)](https://nasachallenge-nine.vercel.app)
+
+Interactive web application for exploring trends across **14 environmental variables** in **84 regions of Mexico and the United States**, using NASA Earth science datasets. Combines a 3D globe, time-series visualization, regional comparisons, and statistical evidence with traceable data sources.
+
+**React · TypeScript · Vite · Three.js · Earth Science Data**
+
+[Live demo](https://nasachallenge-nine.vercel.app) · [Source code](https://github.com/PedroxionX/tren-detective-ae)
+
+---
+
 ## Education
 
 <table width="100%">
