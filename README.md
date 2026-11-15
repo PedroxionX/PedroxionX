@@ -11,7 +11,7 @@
 
 ---
 
-## Featured Project
+## Featured Projects
 
 ### Trend Detective · NASA Space Apps Challenge 2026
 
@@ -22,6 +22,14 @@ Interactive web application for exploring trends across **14 environmental varia
 **React · TypeScript · Vite · Three.js · Earth Science Data**
 
 [Live demo](https://trend-detective-ae.vercel.app/) · [Source code](https://github.com/PedroxionX/tren-detective-ae)
+
+### HuellitasCare
+
+Pet-care app for dog and cat owners, with symptom-based urgency guidance, offline pet histories and reminders, and access to verified veterinarians and nearby clinics. Helps owners decide when to seek veterinary care without diagnosing or prescribing treatment.
+
+**Coming soon to iOS and Android.**
+
+[Visit website](https://huellitascare.com/)
 
 ---
 
