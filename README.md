@@ -21,7 +21,7 @@ Interactive web application for exploring trends across **14 environmental varia
 
 **React · TypeScript · Vite · Three.js · Earth Science Data**
 
-[Live demo](https://trend-detective-ae.vercel.app/) · [Source code](https://github.com/PedroxionX/tren-detective-ae)
+[Live demo](https://trend-detective-ae.vercel.app/) · [Source code](https://github.com/PedroxionX/trend-detective-ae)
 
 ### HuellitasCare
 
